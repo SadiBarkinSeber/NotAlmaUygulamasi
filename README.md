@@ -1,7 +1,7 @@
 # NotAlmaUygulamasi
 
 ![Ekran görüntüsü 2023-10-25 093803](https://github.com/SadiBarkinSeber/NotAlmaUygulamasi/assets/72513651/bbd862de-b2d4-4517-9777-bb6ca11a8951)
-![Ekran görüntüsü 2023-10-25 093800](https://github.com/SadiBarkinSeber/NotAlmaUygulamasi/assets/72513651/5c2006b5-ad52-45a9-8a61-81832939f735)
+![Ekran görüntüsü 2023-10-25 093800](https://github.com/SadiBarkinSeber/NotAlmaUygulamasi/assets/72513651/80bcb8df-a411-41cc-ae83-b168e9a05283)
 ![Ekran görüntüsü 2023-10-25 093240](https://github.com/SadiBarkinSeber/NotAlmaUygulamasi/assets/72513651/5d11f06b-788c-4811-89b4-5368d71941a2)
 ***
 ![Ekran görüntüsü 2023-10-26 031612](https://github.com/SadiBarkinSeber/NotAlmaUygulamasi/assets/72513651/f07ba1aa-c92a-443b-a52b-73662d6b2385)
